@@ -72,3 +72,17 @@ This project demonstrates how to create and decode QR codes using Python. It uti
 
 ## Example Output
 
+Decoded data from img1.jpg: [Decoded(data=b'https://example.com', type='QRCODE', rect=Rect(left=21, top=21, width=258, height=258), polygon=[Point(x=21, y=21), Point(x=21, y=279), Point(x=279, y=279), Point(x=279, y=21)])]
+Decoded data from img2.jpg: [Decoded(data=b'Some data here', type='QRCODE', rect=Rect(left=21, top=21, width=258, height=258), polygon=[Point(x=21, y=21), Point(x=21, y=279), Point(x=279, y=279), Point(x=279, y=21)])]
+
+
+
+## Contributing
+
+Feel free to fork this repository, make improvements, and submit a pull request. Any contributions are welcome!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
