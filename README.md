@@ -81,8 +81,4 @@ Decoded data from img2.jpg: [Decoded(data=b'Some data here', type='QRCODE', rect
 
 Feel free to fork this repository, make improvements, and submit a pull request. Any contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
